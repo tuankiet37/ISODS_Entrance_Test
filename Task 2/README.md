@@ -36,4 +36,4 @@ streamlit run web.py
 Enjoy the convenience of VAS as it sets up a local host website, making it effortless to upload links from YouTube or your computer. After preprocessing, the video content becomes accessible on the website and is also saved in a designated location, typically at `link-to-your-project/results`.
 
 ## Demo
-To experience the capabilities of VAS without any setup, check out our live demo at Demo Link.
+To experience the capabilities of VAS without any setup, check out our live demo at [Demo Link](https://uithcm-my.sharepoint.com/:f:/g/personal/20521493_ms_uit_edu_vn/EiBDQ6J3ndtCoaqTk5beGTEB6fH8QSAOG50vGWhyySaHwQ?e=qUc7XM)https://uithcm-my.sharepoint.com/:f:/g/personal/20521493_ms_uit_edu_vn/EiBDQ6J3ndtCoaqTk5beGTEB6fH8QSAOG50vGWhyySaHwQ?e=qUc7XM.
